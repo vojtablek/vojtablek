@@ -14,3 +14,4 @@ Right now I'm learning 3D and Vector Graphic.
 - 🎶 https://github.com/LMMS/lmms
 - 👨‍💻 https://github.com/atom/atom
 - 🧊 https://github.com/blender/blender
+- 🖌 https://github.com/inkscape/inkscape
