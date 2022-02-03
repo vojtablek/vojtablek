@@ -4,7 +4,7 @@
 **I'm *vojtablek*, also known as *Blek*.**
 <br>
 ### 🎯 Specialization
-I love website coding, so *HTML, CSS and Javascript*. <br>
+I love **website coding** (HTML, CSS) and **Javascript**. <br>
 Right now I'm learning 3D and Vector Graphic. <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vojtablek&layout=compact&title_color=e76f51&text_color=f4a261&hide_border=true&bg_color=264653)](https://github.com/anuraghazra/github-readme-stats)
@@ -16,13 +16,13 @@ Right now I'm learning 3D and Vector Graphic. <br>
 <sub><sup><br>Github Stats using [Github README stats](https://github.com/anuraghazra/github-readme-stats) by [Anurag Hazra](https://github.com/anuraghazra), license: [HERE](https://github.com/anuraghazra/github-readme-stats/blob/master/LICENSE)</sup></sub>
 
 ### 😎 Favorite Projects
-- 🎶 https://github.com/LMMS/lmms
-- 👨‍💻 https://github.com/atom/atom
-- 🧊 https://github.com/blender/blender
-- 🖌 https://github.com/inkscape/inkscape
+- 🎶 [LMMS](https://github.com/LMMS/lmms)
+- 👨‍💻 [Atom](https://github.com/atom/atom)
+- 🧊 [Blender](https://github.com/blender/blender)
+- 🖌 [Inkscape](https://github.com/inkscape/inkscape)
 
 ### 📢 Copy link and Share me!
-```md
+```
 https://github.com/vojtablek/
 ```
 <br>
