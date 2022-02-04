@@ -1,7 +1,4 @@
-# 👋 Hello, World!
-### 👤 About me
-He/Him <br>
-**I'm *vojtablek*, also known as *Blek*.**
+# 👋 Hello, World! I'm @vojtablek
 
 ### 🎯 Specialization
 I love **website coding** (HTML, CSS) and **Javascript**. <br>
