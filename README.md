@@ -17,10 +17,10 @@ Right now I'm learning 3D and Vector Graphic. <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vojtablek&title_color=e76f51&text_color=f4a261&hide_border=true&bg_color=264653&show_icons=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ### <img src="https://github.com/vojtablek/vojtablek/raw/main/assets/star-dynamic-color.png" style="width: 24px"/> Favorite Projects
-- 🎶 [LMMS](https://github.com/LMMS/lmms)
-- 👨‍💻 [Atom](https://github.com/atom/atom)
-- 🧊 [Blender](https://github.com/blender/blender)
-- 🖌 [Inkscape](https://github.com/inkscape/inkscape)
+- <img src="https://github.com/vojtablek/vojtablek/raw/main/assets/music-dynamic-color.png" style="width: 16px"/> [LMMS](https://github.com/LMMS/lmms)
+- <img src="https://github.com/vojtablek/vojtablek/raw/main/assets/computer-dynamic-color.png" style="width: 16px"/> [Atom](https://github.com/atom/atom)
+- <img src="https://github.com/vojtablek/vojtablek/raw/main/assets/3d-dynamic-color.png" style="width: 16px"/> [Blender](https://github.com/blender/blender)
+- <img src="https://github.com/vojtablek/vojtablek/raw/main/assets/brush-dynamic-color.png" style="width: 16px"/> [Inkscape](https://github.com/inkscape/inkscape)
 
 ### <img src="https://github.com/vojtablek/vojtablek/raw/main/assets/megaphone-dynamic-color.png" style="width: 24px"/> Copy link and Share me!
 ```
