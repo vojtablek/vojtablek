@@ -1,6 +1,6 @@
 # 👋 Hello, World!
 ### 👤 About me
-**He/Him** <br>
+He/Him <br>
 **I'm *vojtablek*, also known as *Blek*.**
 
 ### 🎯 Specialization
