@@ -15,7 +15,6 @@ Right now I'm learning 3D and Vector Graphic. <br>
 
 ### <img src="https://github.com/vojtablek/vojtablek/raw/main/assets/flash-dynamic-color.png" style="width: 24px"/> Activity
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vojtablek&title_color=e76f51&text_color=f4a261&hide_border=true&bg_color=264653&show_icons=false)](https://github.com/anuraghazra/github-readme-stats)
-<sup><sub><br>Github Stats using [Github README stats](https://github.com/anuraghazra/github-readme-stats) by [Anurag Hazra](https://github.com/anuraghazra), license: [HERE](https://github.com/anuraghazra/github-readme-stats/blob/master/LICENSE)</sub></sup>
 
 ### <img src="https://github.com/vojtablek/vojtablek/raw/main/assets/star-dynamic-color.png" style="width: 24px"/> Favorite Projects
 - 🎶 [LMMS](https://github.com/LMMS/lmms)
@@ -27,4 +26,4 @@ Right now I'm learning 3D and Vector Graphic. <br>
 ```
 https://github.com/vojtablek/
 ```
-<sup><sub>Icons by [3dicons.co](https://3dicons.co/)</sub></sup>
+<sup><sub>Icons by [3dicons.co](https://3dicons.co/) · Github stats using [Github README stats](https://github.com/anuraghazra/github-readme-stats) by [Anurag Hazra](https://github.com/anuraghazra), license: [HERE](https://github.com/anuraghazra/github-readme-stats/blob/master/LICENSE)</sub></sup>
