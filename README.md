@@ -8,10 +8,9 @@ Right now I'm learning 3D and Vector Graphic. <br>
 
 ### <img src="https://github.com/vojtablek/vojtablek/raw/main/assets/flag-dynamic-color.png" style="width: 24px"/> Goals for this year
 - [ ] React
-- [ ] JavaScript Promises perfection
-- [ ] Handle perfectly RegEx
 - [ ] Sass
 - [ ] Python basics
+- [ ] C++
 
 ### <img src="https://github.com/vojtablek/vojtablek/raw/main/assets/flash-dynamic-color.png" style="width: 24px"/> Activity
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vojtablek&title_color=e76f51&text_color=f4a261&hide_border=true&bg_color=264653&show_icons=false)](https://github.com/anuraghazra/github-readme-stats)
