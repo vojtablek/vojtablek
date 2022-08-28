@@ -1,6 +1,4 @@
-# 👋 Hello, World! I'm @vojtablek
-
-
+# 👋 Hello, World! I'm Vojtěch
 
 ### <img src="https://github.com/vojtablek/vojtablek/raw/main/assets/target-dynamic-color.png" style="width: 24px"/> Specialization
 I love **website coding** (HTML, CSS) and **Javascript**. <br>
