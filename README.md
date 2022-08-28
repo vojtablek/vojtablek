@@ -2,7 +2,7 @@
 
 ### <img src="https://github.com/vojtech-cerny/vojtech-cerny/raw/main/assets/target-dynamic-color.png" style="width: 24px"/> Specialization
 I love **website coding** (HTML, CSS) and **Javascript**. <br>
-Right now I'm learning 3D and Vector Graphic. <br>
+Right now I'm learning React. <br>
 
 ### <img src="https://github.com/vojtech-cerny/vojtech-cerny/raw/main/assets/flag-dynamic-color.png" style="width: 24px"/> Goals for this year
 - [ ] React
